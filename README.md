@@ -1,7 +1,5 @@
-## WildFire
 **SCRUM MASTER**: Manasse Nkundimana
 <br>
-**PRODUCT OWNER**: Adam Goodman
 
 <hr> 
 View our backlog and track progress on <a href="https://swe6733-1.atlassian.net/jira/software/projects/SWE/boards/1/backlog">Jira</a>
